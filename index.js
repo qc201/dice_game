@@ -1,3 +1,5 @@
+// Math.floor(Math.random() * (max - min + 1) + min)
+
 var randomNumber1 = Math.floor(Math.random() * (6 - 1 + 1) + 1);
 var randomNumber2 = Math.floor(Math.random() * (6 - 1 + 1) + 1);
 var number1 = './images/dice'+randomNumber1+'.png';
